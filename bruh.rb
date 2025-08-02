@@ -6,7 +6,7 @@ class Bruh < Formula
   version "1.0.0"
 
   def install
-    bin.install "bruh/bruh"
+    bin.install "bruh"
   end
 
   test do
